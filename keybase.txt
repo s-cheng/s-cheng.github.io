@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/scheng
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://sarahycheng.com
+  * I am scheng (https://keybase.io/scheng) on keybase.
+  * I have a public key with fingerprint 8832 F8FB 5E18 E7BB AD61  7F7C 41BF 6C47 8950 16AA
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101858f3cc372766c4cd0bd8ee40fd95488f0b130ce60f8745e6219709f0b7d29d40a",
+            "fingerprint": "8832f8fb5e18e7bbad617f7c41bf6c47895016aa",
+            "host": "keybase.io",
+            "key_id": "41bf6c47895016aa",
+            "kid": "0101858f3cc372766c4cd0bd8ee40fd95488f0b130ce60f8745e6219709f0b7d29d40a",
+            "uid": "260e638c5139ca3d0caa3b834b239119",
+            "username": "scheng"
+        },
+        "service": {
+            "hostname": "sarahycheng.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1466744407,
+    "expire_in": 157680000,
+    "prev": "95a64b87d98f5ae9d743b4131f555f85758c700447d99f58cbd3df64a39de071",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIoAnicrVJbSBVRFL03tccFexBBCClOUVC3POfOmTlnro8yyo8+iijrp7rOnHPG
+O6kz17lX00wI0h4gERVYEmL2ogdFHymW+Coqk7AipKig9EOI3iZREnVG6q/Pzs9h
+773W2mtv9p3UJF/AP2vRkaf5HdjnH+htrPBtLe3aWiMZDquWwjVSCZ/8eCnj8USk
+xGJSWAIQQKIQU6ZUxiGsqhRRBgxGOEfAZJqCCDGBAWVAuQpMgpHC1RDUMNBEGrOQ
+xhDQpaBkWnYxd2OuZSeELCFyyCSmoXBIODYMnakQm5giaJiiBSaaAqCqe8SoE/cY
+wpyhx/kKyxE5EUQm7f0D/599V0zKhVTAVZlQBcoa1WUGqK7LBpGREZI1CDUPGOeu
+rZdxgY7TKLeLpdqgJHKVFuXeWr05/tZ1V49WT4JWUKdMkGOuk3CoUyqK0UQiFva4
+ieqYB97FjcgfmYhh2UzsURAquRu3HFsKQ4GkCcvThUhVMUII4KDEq2KWyyOWh1Cw
+SoB4XhteKSQ1RVeRQTDTiKnoXGMYyQaCMjQVRTGJghVCMQAICYRmisBgMjNVpMsa
+4wBDyRus3HakMBI29WJvJKvY1hMVLpdq+3q2Jfv8Ad/UlCneffkCM2b/vbqlB6b9
+WosOKAsKh54Hruc3dFx7v/HrWX9kbN3Py1Zrx/6XTk9K55p3RTl1V95MpFpjZU7X
+3ty87xk7e7PrBzYc+9DZ3HT8euSGA4fYg4rt/V0j6f6Wjf1FuT7/zdGsgpY0dnL+
+uN1+a8/dwXOt/jk38jMsFjg+uP7+VblvrGV3btWLZRmrLh9+3X7s3v61hcGF15q3
+rFy979VVqzvlw2jNs/Lpn5Ja68on6taowzULtcJvmQ/TAm2p563kJYvnNZ7qrh1v
+OXLrNK0/eql1pLF385eCzLINyzd9boo3uCnpt3PfHso6mDeEjDPDc388ntlVR5d3
+nrjYkJ1zofnJ10+l0c8fd8S2tPU++g1yg0F1
+=9CmI
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/scheng
+
+==================================================================
